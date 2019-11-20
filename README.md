@@ -3,4 +3,4 @@
 Hello, Everyone
 
 #### Link
-[gdygdkhbfkhg](new_folder/projects)
+[gdygdkhbfkhg](/new_folder/projects)
